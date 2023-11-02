@@ -1,4 +1,4 @@
-INSERT INTO articles (title, description, date)
+INSERT INTO Articles (title, description, date)
 VALUES 
   ('The Future of Cloud Computing', 'This article explores the latest trends and technologies shaping the future of cloud computing.', '2023-11-02'),
   ('Benefits of Cloud-Based Collaboration Tools', 'Learn how cloud-based collaboration tools are transforming the way teams work together.', '2023-11-02'),
